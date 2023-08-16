@@ -8,7 +8,14 @@
 	color: #6e2c38;
 }
 
+#main-content{
+	padding-top: 50px;
+}
 
+
+#nav-id{
+	background-color: #16191f;
+}
 #landing, #tools{
 	background-image: 
 		linear-gradient(to bottom, rgba(0,0,0, 0.7), rgba(0,0,0, 0.5)),
@@ -34,6 +41,6 @@
 }
 
 #prefooter{
-	background-color: #4d7275;
+	background-color: #16191f;
 	color: white;
 }
