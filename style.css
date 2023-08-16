@@ -4,7 +4,14 @@
 	box-sizing:  border-box;
 }
 
+#main-content #full_name,  #main-content #subtitle, #projects h2{
+	color: #6e2c38;
+}
 
+h1, h2{
+	font-family: "Trirong", serif;
+	font-weight: bold;
+}
 #landing, #tools{
 	background-image: 
 		linear-gradient(to bottom, rgba(0,0,0, 0.7), rgba(0,0,0, 0.5)),
@@ -17,6 +24,9 @@
 
 }
 
+#contact{
+	background-color: #15181c;
+}
 
 #contact-form{
 	background-color: #cc5577;
